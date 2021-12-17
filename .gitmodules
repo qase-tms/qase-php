@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:qase-tms/qase-php-client.git
+[submodule "phpunit"]
+	path = phpunit
+	url = git@github.com:qase-tms/qase-phpunit.git
