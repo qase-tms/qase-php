@@ -4,3 +4,6 @@
 [submodule "phpunit"]
 	path = phpunit
 	url = git@github.com:qase-tms/qase-phpunit.git
+[submodule "codeception"]
+	path = codeception
+	url = git@github.com:qase-tms/qase-codeception.git
