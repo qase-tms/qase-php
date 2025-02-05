@@ -1,9 +1,13 @@
-[submodule "client"]
-	path = client
-	url = git@github.com:qase-tms/qase-php-client.git
-[submodule "phpunit"]
-	path = phpunit
-	url = git@github.com:qase-tms/qase-phpunit.git
-[submodule "codeception"]
-	path = codeception
-	url = git@github.com:qase-tms/qase-codeception.git
+[submodule "qase-phpunit"]
+	path = qase-phpunit
+	url = https://github.com/qase-tms/qase-phpunit
+[submodule "qase-php-commons"]
+	path = qase-php-commons
+	url = https://github.com/qase-tms/qase-php-commons
+[submodule "qase-api-client"]
+	path = qase-api-client
+	url = https://github.com/qase-tms/qase-api-client
+[submodule "qase-api-v2-client"]
+	path = qase-api-v2-client
+	url = https://github.com/qase-tms/qase-api-v2-client
+
