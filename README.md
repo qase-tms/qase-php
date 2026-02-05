@@ -8,22 +8,28 @@ automation workflows.
 
 ### 🚀 Reporters
 
-- **[qase-phpunit](https://github.com/qase-tms/qase-phpunit)**  
+- **[qase-phpunit](https://github.com/qase-tms/qase-phpunit)**
   A dedicated reporter for PHPUnit with built-in support for Paratest, ensuring smooth test execution and result
   tracking.
 
+- **[qase-pest](https://github.com/qase-tms/qase-pest)**
+  A reporter for Pest PHP testing framework, providing seamless integration with Qase TestOps.
+
+- **[qase-codeception](https://github.com/qase-tms/qase-codeception)**
+  A reporter for Codeception testing framework, enabling test result reporting to Qase TestOps.
+
 ### 📦 Libraries
 
-- **[qase-php-commons](https://github.com/qase-tms/qase-php-commons)**  
+- **[qase-php-commons](https://github.com/qase-tms/qase-php-commons)**
   A shared library containing essential components and utilities for Qase reporters, helping to maintain consistency
   across integrations.
 
 ### 🔗 API Clients
 
-- **[qase-api-client](https://github.com/qase-tms/qase-api-client)**  
+- **[qase-api-client](https://github.com/qase-tms/qase-api-client)**
   The official client for interacting with Qase TestOps API (v1). Recommended for most applications requiring stable API
   integration.
 
-- **[qase-api-v2-client](https://github.com/qase-tms/qase-api-v2-client)**  
+- **[qase-api-v2-client](https://github.com/qase-tms/qase-api-v2-client)**
   A next-generation API client supporting Qase TestOps API (v2). Ideal for projects utilizing the latest API
   capabilities and features.  
