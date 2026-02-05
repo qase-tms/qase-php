@@ -10,4 +10,9 @@
 [submodule "qase-api-v2-client"]
 	path = qase-api-v2-client
 	url = https://github.com/qase-tms/qase-api-v2-client
-
+[submodule "qase-pest"]
+	path = qase-pest
+	url = https://github.com/qase-tms/qase-pest
+[submodule "qase-codeception"]
+	path = qase-codeception
+	url = https://github.com/qase-tms/qase-codeception
